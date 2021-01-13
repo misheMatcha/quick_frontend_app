@@ -1,0 +1,10 @@
+.navbar{
+  background-color: blue;
+}
+  .navbar-brand{
+    color: white;
+  }
+
+.container.footer{
+  background-color: rebeccapurple;
+}
